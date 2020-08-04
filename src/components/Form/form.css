@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  margin-top: 64px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container__form {
+  width: 100%;
+  margin-top: 24px;
+}
+
+.container__avatar {
+  margin: 8px;
+  background-color: #f50057;
+}
+
+.container__submit {
+  margin: 24px 0px 16px;
+}
+
+.MuiFormControl-root.container__formControl {
+  margin: 8px;
+  width:100%;
+}
